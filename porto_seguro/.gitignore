@@ -1,0 +1,6 @@
+input/sample_submission.csv
+input/test.csv
+input/train.csv
+.idea/
+model1/__pycache__/categorical.cpython-35.pyc
+
